@@ -32,7 +32,7 @@
                 return this.attr('src', newImgSrc);
 
             } else {
-                console.error('jQuery Simpple Retina: Element is not an inline image, please adjust your selector')
+                console.error('jQuery Simple Retina: Element is not an inline image, please adjust your selector')
             }
 
     }
